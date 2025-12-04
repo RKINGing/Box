@@ -1,0 +1,24 @@
+{
+  "name": "box",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "10.7.2",
+    "sortablejs": "1.15.6",
+    "vue": "^3.5.24"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "autoprefixer": "10.4.20",
+    "daisyui": "4.12.10",
+    "postcss": "8.4.47",
+    "tailwindcss": "3.4.15",
+    "vite": "^7.2.4"
+  }
+}
